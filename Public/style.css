@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  font-family: 'Wallpoet', cursive;
+}
+
+h1 {
+  font-size: 45px;
+
+}
+aside {
+  display:inline-block;;
+  width: 150px;
+  height: 100px;
+  margin: 20px 10px 0 20px;
+  left: 1020px;
+}
+
+span {
+  display: block;
+  margin: 20px 20px;
+}
+
+canvas {
+  float: left;
+  margin: 20px 0 0 30px
+}
+
+h2 { font-size: 25px;
+
+}
+
+span { font-size: 45px;
+
+}
+
+div {
+  /*background-color: black;*/
+}
+
+.container {
+  width: 950px;
+  height: 600px;
+  background-color: #6b8ffe;
+  margin: 0 auto;
+  align-self: left;
+  border-radius: 10px;
+}
